@@ -1,0 +1,22 @@
+{
+  "name": "uwplan",
+  "version": "1.0.0",
+  "description": "UW class Scheduler",
+  "main":"index.js",
+  "scripts": {
+    "start": "nodemon --legacy-watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "uwPlan"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
