@@ -8,6 +8,11 @@ app.get('/', async (req, res) => {
 });
 
 
+app.post('/', async (req,res) => {
+    res.send("post is working")
+});
+
+
 
 
 app.listen(PORT, HOST);
