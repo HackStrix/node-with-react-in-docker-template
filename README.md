@@ -1,3 +1,3 @@
-Template Repo
+# Template Repo
 
 ```docker-compose up```
