@@ -1,3 +1,3 @@
-# UW-Plan
+Template Repo
 
 ```docker-compose up```
